@@ -9,3 +9,7 @@ let number2 = 5;
 console(a + b);
 // pengurangan
 console(a - b);
+// perkalian
+console.log(a * b);
+// pembagian
+console.log(a / b);
