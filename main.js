@@ -6,6 +6,6 @@ console.log("Latihan sederhana");
 let number1 = 10;
 let number2 = 5;
 // pemjumlahan
-console(a + b);
+console.log(a + b);
 // pengurangan
-console(a - b);
+console.log(a - b);
